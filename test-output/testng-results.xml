@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-30T09:34:19Z" name="Default suite" finished-at="2023-05-30T09:34:20Z" duration-ms="957">
+    <groups>
+    </groups>
+    <test started-at="2023-05-30T09:34:19Z" name="Default test" finished-at="2023-05-30T09:34:20Z" duration-ms="957">
+      <class name="selenium_practice1.main.testcases.VibloPageTest">
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:selenium_practice1.main.testcases.VibloPageTest@1ab06251]" started-at="2023-05-30T09:34:14Z" name="initializeDriver" finished-at="2023-05-30T09:34:19Z" duration-ms="4788" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="checkLoginTitle()[pri:0, instance:selenium_practice1.main.testcases.VibloPageTest@1ab06251]" started-at="2023-05-30T09:34:19Z" name="checkLoginTitle" finished-at="2023-05-30T09:34:19Z" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLoginTitle -->
+        <test-method signature="checkRequiredBothField()[pri:0, instance:selenium_practice1.main.testcases.VibloPageTest@1ab06251]" started-at="2023-05-30T09:34:19Z" name="checkRequiredBothField" finished-at="2023-05-30T09:34:19Z" duration-ms="310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRequiredBothField -->
+        <test-method signature="checkRequiredEmail()[pri:0, instance:selenium_practice1.main.testcases.VibloPageTest@1ab06251]" started-at="2023-05-30T09:34:19Z" name="checkRequiredEmail" finished-at="2023-05-30T09:34:19Z" duration-ms="296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRequiredEmail -->
+        <test-method signature="checkRequiredPassword()[pri:0, instance:selenium_practice1.main.testcases.VibloPageTest@1ab06251]" started-at="2023-05-30T09:34:19Z" name="checkRequiredPassword" finished-at="2023-05-30T09:34:20Z" duration-ms="294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRequiredPassword -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:selenium_practice1.main.testcases.VibloPageTest@1ab06251]" started-at="2023-05-30T09:34:20Z" name="closeBrowser" finished-at="2023-05-30T09:34:20Z" duration-ms="682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- selenium_practice1.main.testcases.VibloPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
